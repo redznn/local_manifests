@@ -1,6 +1,6 @@
 <manifest>
     <project path="device/xiaomi/apollo" remote="github" name="redznn/device_xiaomi_apollo" revision="lineage-22.1"/>
     <project path="vendor/xiaomi/apollo" remote="github" name="redznn/vendor_xiaomi_apollo" revision="lineage-22.1"/>
-    <project path="kernel/xiaomi/apollo" remote="github" name="EmanuelCN/kernel_xiaomi_sm8250" revision="staging"/>
+    <project path="kernel/xiaomi/apollo" remote="github" name="GustavoMends/kernel_xiaomi_alioth" revision="fifteen"/>
     <project path="hardware/xiaomi" remote="github" name="LineageOS/android_hardware_xiaomi" revision="lineage-22.1"/>
 </manifest>
