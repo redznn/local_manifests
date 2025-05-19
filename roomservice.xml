@@ -1,8 +1,8 @@
 <manifest>
     <remote name="github" fetch="https://github.com"></remote>
     
-    <project path="device/xiaomi/apollo" remote="github" name="redznn/device_xiaomi_apollo" revision="lineage-22.2"/>
-    <project path="vendor/xiaomi/apollo" remote="github" name="redznn/vendor_xiaomi_apollo" revision="lineage-22.2"/>
-    <project path="kernel/xiaomi/apollo" remote="github" name="GustavoMends/kernel_xiaomi_alioth" revision="fifteen"/>
+    <project path="device/xiaomi/apollo" remote="github" name="Team-NoobMaster69/device_xiaomi_apollo" revision="lineage-22.2"/>
+    <project path="vendor/xiaomi/apollo" remote="github" name="Team-Noobmaster69/vendor_xiaomi_apollo" revision="lineage-22.2"/>
+    <project path="kernel/xiaomi/apollo" remote="github" name="Team-Noobmaster69/kernel_xiaomi_sm8250" revision="staging"/>
     <project path="hardware/xiaomi" remote="github" name="redznn/android_hardware_xiaomi" revision="lineage-22.2"/>
 </manifest>
